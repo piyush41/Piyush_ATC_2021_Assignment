@@ -1,6 +1,6 @@
 # Piyush_ATC_2021_Assignment
 
-Hi, First of all, I am really sorry that I have uploaded more than one file. Actually, what happened is that I misunderstood the problem and did not take care of some cases. Actually, previously I have run all the functions individually and used some global dictionaries and lists, and merging into one has created a lot of problems. And taking care of nested And's is very tough for me. But I have done it successfully in my final output file. It is about 600 lines of code, so debugging takes a lot of time. So I have updated it a little. I have not deleted my previous submission so that you can check that there are only lines of code that have been changed, and if you want the final program, please open the "final_output.py." Because it has taken care of all the cases(except that the input xi's have to be in increasing order which you have already said in the teams)  For running the program Jupyter notebook, after that compiling the program, we have to give the inputs in line by line format
+For running the program Jupyter notebook, after that compiling the program, we have to give the inputs in line by line format
 for eg:=
 Not(And(x1+x2==10,x2==6))
 2
